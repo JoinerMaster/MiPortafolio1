@@ -1,3 +1,3 @@
-const a = "El mundo es maravilloso";
+const a = "kaiser knukcles";
 
 console.log = (a);
